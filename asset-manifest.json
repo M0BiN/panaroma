@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/panaroma/static/css/main.5a320a69.chunk.css",
+    "main.js": "/panaroma/static/js/main.09d8ebdb.chunk.js",
+    "main.js.map": "/panaroma/static/js/main.09d8ebdb.chunk.js.map",
+    "runtime-main.js": "/panaroma/static/js/runtime-main.33e8f819.js",
+    "runtime-main.js.map": "/panaroma/static/js/runtime-main.33e8f819.js.map",
+    "static/css/2.c0fef55f.chunk.css": "/panaroma/static/css/2.c0fef55f.chunk.css",
+    "static/js/2.cd61751b.chunk.js": "/panaroma/static/js/2.cd61751b.chunk.js",
+    "static/js/2.cd61751b.chunk.js.map": "/panaroma/static/js/2.cd61751b.chunk.js.map",
+    "static/js/3.149d52a3.chunk.js": "/panaroma/static/js/3.149d52a3.chunk.js",
+    "static/js/3.149d52a3.chunk.js.map": "/panaroma/static/js/3.149d52a3.chunk.js.map",
+    "index.html": "/panaroma/index.html",
+    "static/css/2.c0fef55f.chunk.css.map": "/panaroma/static/css/2.c0fef55f.chunk.css.map",
+    "static/css/main.5a320a69.chunk.css.map": "/panaroma/static/css/main.5a320a69.chunk.css.map",
+    "static/js/2.cd61751b.chunk.js.LICENSE.txt": "/panaroma/static/js/2.cd61751b.chunk.js.LICENSE.txt",
+    "static/media/pannellum.css": "/panaroma/static/media/sprites.c08944fe.svg",
+    "static/media/logo.103b5fa1.svg": "/panaroma/static/media/logo.103b5fa1.svg",
+    "static/media/pn1.93268dd5.jpg": "/panaroma/static/media/pn1.93268dd5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33e8f819.js",
+    "static/css/2.c0fef55f.chunk.css",
+    "static/js/2.cd61751b.chunk.js",
+    "static/css/main.5a320a69.chunk.css",
+    "static/js/main.09d8ebdb.chunk.js"
+  ]
+}
